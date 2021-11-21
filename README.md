@@ -8,10 +8,10 @@ Você deve construir o sistema de marcação de ponto de sua empresa. O sistema 
 
 São 4 batidas de ponto:
 
-entrada (começo do dia);
-saída (sai pro almoço);
-entrada (volta do almoço);
-saída (fim do dia).
+entrada (começo do dia)
+saída (sai pro almoço)
+entrada (volta do almoço)
+saída (fim do dia)
 
 
 Requisitos:
@@ -23,11 +23,10 @@ Requisito #4 - Você deve, necessariamente, criar uma classe para o projeto. A f
 
 ### Tópicos avaliados:
 
-Modelagem orienta a objetos;
-
-Classes;
-Atributos;
-Métodos;
-Construtor;
-Métodos mágicos;
+Modelagem orientada a objetos
+Classes
+Atributos
+Métodos
+Construtor
+Métodos mágicos
 
