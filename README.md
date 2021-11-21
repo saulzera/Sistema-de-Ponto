@@ -8,25 +8,25 @@ Você deve construir o sistema de marcação de ponto de sua empresa. O sistema 
 
 São 4 batidas de ponto:
 
-entrada (começo do dia)
-saída (sai pro almoço)
-entrada (volta do almoço)
-saída (fim do dia)
+<p>entrada (começo do dia)</p>
+<p>saída (sai pro almoço)</p>
+<p>entrada (volta do almoço)</p>
+<p>saída (fim do dia)</p>
 
 
 Requisitos:
 
-Requisito #1 - O intervalo mínimo é de 1h. Se o funcionário tentar bater o ponto da volta do almoço com menos de 1h, avise-o disso, e impeça a marcação!
-Requisito #2 - Ao fim da jornada de trabalho, você deve avisar para o usuário exatamente qual foi sua jornada de trabalho (não inclui o intervalo!).
-Requisito #3 - Se trabalhar mais que 10h, dê um esporro.
-Requisito #4 - Você deve, necessariamente, criar uma classe para o projeto. A forma como você irá modelar os atributos, métodos, etc., é inteiramente livre.
+<p>Requisito #1 - O intervalo mínimo é de 1h. Se o funcionário tentar bater o ponto da volta do almoço com menos de 1h, avise-o disso, e impeça a marcação!</p>
+<p>Requisito #2 - Ao fim da jornada de trabalho, você deve avisar para o usuário exatamente qual foi sua jornada de trabalho (não inclui o intervalo!).</p>
+<p>Requisito #3 - Se trabalhar mais que 10h, dê um esporro.</p>
+<p>Requisito #4 - Você deve, necessariamente, criar uma classe para o projeto. A forma como você irá modelar os atributos, métodos, etc., é inteiramente livre.</p>
 
 ### Tópicos avaliados:
 
-Modelagem orientada a objetos
-Classes
-Atributos
-Métodos
-Construtor
-Métodos mágicos
+<p>Modelagem orientada a objetos</p>
+<p>Classes</p>
+<p>Atributos</p>
+<p>Métodos</p>
+<p>Construtor</p>
+<p>Métodos mágicos</p>
 
